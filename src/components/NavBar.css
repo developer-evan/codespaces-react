@@ -1,0 +1,13 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #36acfa;
+    color:#fff;
+    height: 40px;
+    padding-left: 24px;
+    padding-right: 24px;
+}
+.menu{
+    cursor: pointer;
+}
